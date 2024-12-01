@@ -68,7 +68,9 @@ International Tourism Management<br>
 <img align="left" width="250" alt="logo" src=https://github.com/user-attachments/assets/76ca1109-de3c-43db-a1e1-85b9682abee6>
 <img align="middle" width="400" alt="logo" src=https://github.com/user-attachments/assets/2b0328e8-5672-48a9-8a2f-ce0339bc5c42>
 <img align="right" width="275" alt="logo" src=https://github.com/user-attachments/assets/e011e9b7-b669-4fcb-8bef-168ef5ead3bf>
-<hr>
+<br>
+
+
 
 Interests:
   - Play badminton
