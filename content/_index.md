@@ -76,30 +76,22 @@ sections:
     #           * Get rid of my procrastination
     # design:
     #   columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'My Works 💛'
-  #     subtitle: The followings are some of my previous works
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      # date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      # items:
-    
-      #   - date_end: ''
-      #     title: 评史铁生《命若琴弦》中治眼药方的意义
-      #     url: 'https://docs.qq.com/doc/DQ0J3UmpCUGhFUEdZ?_bid=1&client=drive_file&nlc=1'
-
-      #   - title: 评《断魂枪》
-      #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-      #   - title: 评《秋兴八首》
-    #   #     url: https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx
-    # design:
-    #   columns: '2'
+  - block: works
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'My Works 💛' 
+      subtitle: The followings are some of my previous works
+      items:    
+        - title: 评史铁生《命若琴弦》中治眼药方的意义
+          url: 'https://docs.qq.com/doc/DQ0J3UmpCUGhFUEdZ?_bid=1&client=drive_file&nlc=1'
+        - title: 评《断魂枪》
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - title: 评《秋兴八首》
+          url: https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx
+        - title: 评《容忍与自由》
+          url: https://docs.qq.com/document/DQ2FlQXp6cFVnUUZw        
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:

@@ -1,0 +1,51 @@
+{{/* Hugo Blox: Accomplishments */}}
+{{/* Documentation: https://hugoblox.com/blocks/ */}}
+{{/* License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
+
+
+<div class="section-heading col-12 mb-3 text-center">
+    <h1 class="mb-0">My Works 💛</h1>
+    <p class="mt-1">The followings are some of my previous works</p>
+<!-- Accomplishments widget -->
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
+
+  {{ if $block.content.items }}
+  {{ range $idx, $key := sort $block.content.items }}
+    <div class="card experience course">
+      <div class="card-body">
+            {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
+            <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
+            {{- with .url -}}</a>{{- end -}}
+
+            <div class="card-subtitle my-0 article-metadata">
+              {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+              {{- .organization | markdownify | emojify -}}
+              {{- with .organization_url}}</a>{{end -}}
+
+              <span class="middot-divider"></span>
+
+         
+            </div>
+
+  
+
+        {{with .description}}
+          <div class="card-text">{{. | markdownify | emojify}}</div>
+        {{end}}
+
+        {{ with .certificate_url }}
+          <a class="card-link" href="{{.}}" target="_blank" rel="noopener">
+            {{ i18n "see_certificate" | default "See certificate" }}
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  {{end}}
+  {{end}}
+</div>
