@@ -97,20 +97,14 @@ highlight_name: true
 
 
 Let's get started! 👇
-
 Brief Self Introduction 🧡 
 
-Hello, everyone!
-
-My name is Huang Jiayuan, you guys can also called me Cary.
-
-I'm a student from MSB at Macau University of Science and Technology.
-
-I'm from Jiangxi, Nanchang, a city situated in the south of the China.
-
-My hobbies are various, like playing badminton, dancing and making desserts.
-
-Also, I'm addicted to the cotton dolls and research how to make them by myself.
+Hello, everyone! <br/>
+My name is Huang Jiayuan, you guys can also called me Cary.<br/>
+I'm a student from MSB at Macau University of Science and Technology.<br/>
+I'm from Jiangxi, Nanchang, a city situated in the south of the China.<br/>
+My hobbies are various, like playing badminton, dancing and making desserts.<br/>
+Also, I'm addicted to the cotton dolls and research how to make them by myself.<br/>
 
 
 
