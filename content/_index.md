@@ -50,9 +50,9 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
-    content:
-      title: Goals
+  # - block: experience
+  #   content:
+  #     title: Goals
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       # date_format: Jan 2006
@@ -61,26 +61,26 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: study
-          description: |2-
-              * Do my best to adapt to business school life, obtain good grades, and strive to get an A.
-              * Improve my English level and strive to pass CET-6.
-              * Carefully complete the homework of each subject
-              * Aim for IELTS to reach 7.0
-        - title: life
-          description:  |2-
-              * Keep a positive attitude and strive to be happy every day
-              * Make more good friends
-              * Carefully complete the homework of each subject
-              * Get rid of my procrastination
-    design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'My Works 💛'
-      subtitle: The followings are some of my previous works
+    #   items:
+    #     - title: study
+    #       description: |2-
+    #           * Do my best to adapt to business school life, obtain good grades, and strive to get an A.
+    #           * Improve my English level and strive to pass CET-6.
+    #           * Carefully complete the homework of each subject
+    #           * Aim for IELTS to reach 7.0
+    #     - title: life
+    #       description:  |2-
+    #           * Keep a positive attitude and strive to be happy every day
+    #           * Make more good friends
+    #           * Carefully complete the homework of each subject
+    #           * Get rid of my procrastination
+    # design:
+    #   columns: '2'
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'My Works 💛'
+  #     subtitle: The followings are some of my previous works
       # Date format: https://docs.hugoblox.com/customization/#date-format
       # date_format: Jan 2006
       # Accomplishments.
@@ -88,18 +88,18 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+      # items:
     
-        - date_end: ''
-          title: 评史铁生《命若琴弦》中治眼药方的意义
-          url: 'https://docs.qq.com/doc/DQ0J3UmpCUGhFUEdZ?_bid=1&client=drive_file&nlc=1'
+      #   - date_end: ''
+      #     title: 评史铁生《命若琴弦》中治眼药方的意义
+      #     url: 'https://docs.qq.com/doc/DQ0J3UmpCUGhFUEdZ?_bid=1&client=drive_file&nlc=1'
 
-        - title: 评《断魂枪》
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - title: 评《秋兴八首》
-          url: https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx
-    design:
-      columns: '2'
+      #   - title: 评《断魂枪》
+      #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      #   - title: 评《秋兴八首》
+    #   #     url: https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx
+    # design:
+    #   columns: '2'
   # - block: collection
   #   id: posts
   #   content:
