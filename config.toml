@@ -13,3 +13,6 @@ pygmentscodefences  = true
   sitename = "Black & Light"
   disableWebFonts = false
 
+[markup.goldmark.renderer] 
+  unsafe= true
+
