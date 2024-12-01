@@ -3,7 +3,7 @@ title = "Black & Light"
 author = "David Hamp-Gonsalves"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "hugo-xmin"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
