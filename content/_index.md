@@ -55,7 +55,7 @@ sections:
       title: Goals
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      # date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -80,9 +80,9 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'My Works 💛'
-      subtitle:
+      subtitle: The followings are some of my previous works
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      # date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
