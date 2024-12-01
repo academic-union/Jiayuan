@@ -1,0 +1,15 @@
+
+baseurl = "https://cozy-caramel-84d5a8.netlify.app/"
+title = "Huang Jiayuan"
+
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-xmin"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Black & Light"
+  disableWebFonts = false
+
