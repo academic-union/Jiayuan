@@ -47,9 +47,9 @@ skills:
   - name: make desserts
     items:
       - name: fruit cake
-        description: 'The cake I made tastes good but the styling is a bit lacking'
+        description: The cake I made tastes good but the styling is a bit lacking
         percent: 50
-        icon: python
+        # icon: python
         # icon_pack: fab
       - name: milk shake
         description:  I'm very skilled at it and everyine who drinks them says they are good
