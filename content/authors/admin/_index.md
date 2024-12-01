@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Huang Jiayuan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiayuan
+last_name: Huang
 
 # Status emoji
 status:
@@ -29,16 +28,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Play badminton
+  - Dance
+  - Make dessert
+  - Travel
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course:  Business Adminstration
+      institution: Macau University of Science and Technology
+      year: 2023-09-01
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -49,43 +49,35 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: make desserts
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: fruit cake
+        description: 'The cake I made tastes good but the styling is a bit lacking'
+        percent: 50
         icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
+        # icon_pack: fab
+      - name: milk shake
+        description:  I'm very skilled at it and everyine who drinks them says they are good
         percent: 100
-        icon: chart-line
-        icon_pack: fas
+        # icon: chart-line
+        # icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: English
+        percent: 50
+      - name: Chinese
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Japanese
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
+        percent: 15
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
