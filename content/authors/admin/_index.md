@@ -20,8 +20,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name:  Macau University 
+    url: https://www.must.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -61,11 +61,6 @@ skills:
         percent: 100
         # icon: chart-line
         # icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
   - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -112,7 +107,7 @@ social:
 highlight_name: true
 ---
 
-## Welcome To Cary's Channel
+
 
 Let's get started! 👇
 
