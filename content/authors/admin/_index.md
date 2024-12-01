@@ -98,7 +98,7 @@ highlight_name: true
 
 Let's get started! 👇
 
-Brief Self Introduction 🧡
+Brief Self Introduction 🧡 
 
 Hello, everyone!
 
@@ -114,6 +114,6 @@ Also, I'm addicted to the cotton dolls and research how to make them by myself.
 
 
 
-Self-evaluation 💜
+## Self-evaluation 💜
 
 I am a Taurus girl and my MBTI is INFP. I'm curious about things I haven't tried yet. In my daily life, I am friendly to others and hope to become good friends with everyone. In terms of study, I will continue to work hard for the goals I set and strive for the joy of achieving the goals. I am also full of enthusiasm and longing for the future. I believe that my current efforts can lay a good foundation for future life.
