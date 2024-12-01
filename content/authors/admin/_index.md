@@ -20,7 +20,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:  Macau University 
+  - name:  Macau University of Science and Technology
     url: https://www.must.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)

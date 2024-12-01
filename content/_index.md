@@ -82,7 +82,19 @@ sections:
         - title: 评《秋兴八首》
           url: https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx
         - title: 评《容忍与自由》
-          url: https://docs.qq.com/document/DQ2FlQXp6cFVnUUZw        
+          url: https://docs.qq.com/document/DQ2FlQXp6cFVnUUZw  
+        - title: Right to equal education——Brown v. Board of Education (1954)
+          url: https://docs.qq.com/pdf/DQ3ZOYktoemhSWmxl  
+        - title: The right of silence in the Constitution�case Miranda v. Arizona (1966)
+          url: https://docs.qq.com/document/DQ1FFQUZGRGxvUVRB
+        - title: 世界房卡展报告
+          url: https://docs.qq.com/document/DQ2xjd0N5aFpJY2dJ
+        - title: Aruba's problem and advice
+          url: https://docs.qq.com/document/DQ0ZVTE5VVWxEaGJC
+        - title: online shopping report
+          url: https://docs.qq.com/document/DQ0ZCb3BvcWlBU3RZ
+        - title: 南昌旅游线路设计报告
+          url: https://docs.qq.com/document/DQ2FTcHRSQUVreE1X 
     design:
       columns: '2'
   # - block: collection
