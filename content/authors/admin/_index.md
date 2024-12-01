@@ -111,3 +111,9 @@ I'm from Jiangxi, Nanchang, a city situated in the south of the China.
 My hobbies are various, like playing badminton, dancing and making desserts.
 
 Also, I'm addicted to the cotton dolls and research how to make them by myself.
+
+
+
+Self-evaluation 💜
+
+I am a Taurus girl and my MBTI is INFP. I'm curious about things I haven't tried yet. In my daily life, I am friendly to others and hope to become good friends with everyone. In terms of study, I will continue to work hard for the goals I set and strive for the joy of achieving the goals. I am also full of enthusiasm and longing for the future. I believe that my current efforts can lay a good foundation for future life.
